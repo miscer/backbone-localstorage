@@ -1,0 +1,11 @@
+{
+  "name": "backbone-localstorage",
+  "repo": "michalmiskernik/backbone-localstorage",
+  "description": "Simple localstorage implementation for Backbone",
+  "version": "0.0.1",
+  "keywords": ["backbone"],
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
